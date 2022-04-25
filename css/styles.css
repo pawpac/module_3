@@ -1,0 +1,48 @@
+body {
+  background-color:rgb(138, 43, 226);
+  color: rgb(245, 245, 220);
+}
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+  background-color:rgb(0, 0, 255);
+}
+
+.navbar-brand a {
+  color: rgb(245, 245, 220);
+  text-decoration: none;
+}
+
+.navbar-brand {
+  padding: 0;
+}
+
+.navbar-brand a h1 {
+  margin: 10px;
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 0;
+}
+
+#chicken {
+  background-color:rgb(3, 3, 136);
+  padding: 50px;
+}
+
+#nav-list a {
+  color:rgb(245, 245, 220);
+}
+
+#nav-list a:hover {
+  background-color:rgb(0, 139, 139);
+}
+
+
